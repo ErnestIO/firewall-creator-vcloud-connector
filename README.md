@@ -4,8 +4,8 @@ Firewall creator vcloud connector aims to be an interface to create firewalls th
 
 ## Build status
 
-* master:  [![CircleCI](https://circleci.com/gh/ErnestIO/firewall-creator-vcloud-connector/tree/master.svg?style=svg)](https://circleci.com/gh/ErnestIO/firewall-creator-vcloud-connector/tree/master)
-* develop: [![CircleCI](https://circleci.com/gh/ErnestIO/firewall-creator-vcloud-connector/tree/develop.svg?style=svg)](https://circleci.com/gh/ErnestIO/firewall-creator-vcloud-connector/tree/develop)
+* master:  [![CircleCI](https://circleci.com/gh/ernestio/firewall-creator-vcloud-connector/tree/master.svg?style=svg)](https://circleci.com/gh/ernestio/firewall-creator-vcloud-connector/tree/master)
+* develop: [![CircleCI](https://circleci.com/gh/ernestio/firewall-creator-vcloud-connector/tree/develop.svg?style=svg)](https://circleci.com/gh/ernestio/firewall-creator-vcloud-connector/tree/develop)
 
 ## Installation
 
