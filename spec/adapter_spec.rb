@@ -19,7 +19,7 @@ describe 'vcloud_firewall_creator_microservice' do
         client_name: 'r3labs-development',
         datacenter_name: 'r3-acidre',
         datacenter_username: 'acidre@r3labs-development',
-        firewall_rules: [] }
+        rules: [] }
     end
     let!(:event)      { double('event', data: data) }
     let!(:datacenter) { double('datacenter', router: router) }
